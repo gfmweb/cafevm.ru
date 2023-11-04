@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cafevm.ru" id="734c23f2-296b-4978-9169-7b9e8849b83d" port="22" nameFormat="DESCRIPTIVE" username="fastuser" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+2023-03-26 16:12:13: imagepng(/qr.png): Failed to open stream: Permission denied
